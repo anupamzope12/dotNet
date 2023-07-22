@@ -1,0 +1,30 @@
+C:\Users\anupa\source\repos\Employee\Employee\bin\Debug\net7.0\Employee.exe
+C:\Users\anupa\source\repos\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+C:\Users\anupa\source\repos\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+C:\Users\anupa\source\repos\Employee\Employee\bin\Debug\net7.0\Employee.dll
+C:\Users\anupa\source\repos\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.dll
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+C:\Users\anupa\source\repos\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\PG DAC MARCH 2023\Study Material\DotNet\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
